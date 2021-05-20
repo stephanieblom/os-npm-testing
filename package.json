@@ -1,6 +1,6 @@
 {
   "name": "openscreen-sdk-test",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "Testing getting openscreen connected",
   "main": "index.js",
   "scripts": {
