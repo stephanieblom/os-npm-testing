@@ -1,5 +1,5 @@
 
 module.exports = function contact(obj) {
-    if (typeof obj !== "string") throw new TypeError("Contact sent to os!");
+    if (typeof obj !== "string") throw new TypeError("typeof contact is ", typeof obj);
     return string.replace(/\s/g, "");
   };
